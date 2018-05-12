@@ -1,0 +1,44 @@
+_repo: In-the-Arctic-Seas--13-A-Narrative-of-the-Discovery-of-the-Fate-of-Sir-John-Franklin-and-his-__37669
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Murchison, Roderick Impey, Sir
+    birthdate: 1792
+    deathdate: 1871
+    gutenberg_agent_id: '42872'
+    url: http://www.gutenberg.org/2009/agents/42872
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: M'Clintock, Francis Leopold, Sir
+    aliases:
+    - M'Clintock, F. L. (Francis Leopold), Sir
+    - McClintock, Francis Leopold, Sir
+    - M'Clintock, F. Leopold (Francis Leopold), Sir
+    birthdate: 1819
+    deathdate: 1907
+    gutenberg_agent_id: '38985'
+    url: http://www.gutenberg.org/2009/agents/38985
+description: ''
+gutenberg_bookshelf: Travel
+gutenberg_issued: '2011-10-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37669'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fox (Ship)'
+- !lcsh 'M''Clintock, Francis Leopold, Sir, 1819-1907 -- Travel -- Arctic regions'
+- !lcsh 'Franklin, John, 1786-1847'
+- !lcsh 'Northwest Passage'
+- !lcc 'G'
+- !lcsh 'Arctic regions'
+- !lcsh 'M''Clintock, Francis Leopold, Sir, 1819-1907 -- Diaries'
+title: "In the Arctic Seas\r\nA Narrative of the Discovery of the Fate of Sir John\
+  \ Franklin and his Companions"
+url: http://www.gutenberg.org/ebooks/37669
